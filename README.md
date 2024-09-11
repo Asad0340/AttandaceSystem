@@ -31,7 +31,7 @@ To set up the project locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/Asad0340/AttandaceSystem.git
 cd attendance-management-system
 
 2. Install Dependencies
