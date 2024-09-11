@@ -33,3 +33,31 @@ To set up the project locally, follow these steps:
 ```bash
 git clone 
 cd attendance-management-system
+
+2. Install Dependencies
+```bash
+npm install
+expo start
+
+# Firebase
+npm install firebase
+
+# React Navigation
+npm install @react-navigation/native @react-navigation/stack
+
+# React Navigation dependencies
+npm install react-native-screens react-native-safe-area-context
+
+# Expo Linear Gradient
+npm install expo-linear-gradient
+
+# Vector Icons
+npm install @expo/vector-icons
+
+
+
+
+
+
+
+
